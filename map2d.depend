@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1524581036 source:d:\c++\map2d\main.cpp
+	<fstream>
+	<string>
+	<iostream>
+	<sstream>
+	"Tile.h"
+	"Map.h"
+	"Player.h"
+
+1521489220 
+
+1520889524 d:\c++\map2d\include\tile.h
+	<SFML/Graphics.hpp>
+
+1521909543 hics.hpp>
+
+1520889524 source:d:\c++\map2d\src\tile.cpp
+	"Tile.h"
+
+1520889524 
+
+1521489220 source:d:\c++\map2d\src\player.cpp
+	"Player.h"
+
+1524581143 d:\c++\map2d\include\player.h
+	<SFML/Graphics.hpp>
+
+1521909543 d:\c++\map2d\include\map.h
+	<vector>
+	<SFML/Graphics.hpp>
+
+1521909287 source:d:\c++\map2d\src\map.cpp
+	"Map.h"
+
+1521905687 source:/home/airflame/cpp/map2d/src/Map.cpp
+	"Map.h"
+
+1521905943 /home/airflame/cpp/map2d/include/Map.h
+	<vector>
+	<SFML/Graphics.hpp>
+
+1521485620 source:/home/airflame/cpp/map2d/src/Player.cpp
+	"Player.h"
+
+1524581143 /home/airflame/cpp/map2d/include/Player.h
+	<SFML/Graphics.hpp>
+
+1520885924 source:/home/airflame/cpp/map2d/src/Tile.cpp
+	"Tile.h"
+
+1520885924 /home/airflame/cpp/map2d/include/Tile.h
+	<SFML/Graphics.hpp>
+
