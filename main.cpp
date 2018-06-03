@@ -2,9 +2,9 @@
 #include <string>
 #include <iostream>
 #include <sstream>
-#include "Tile.h"
-#include "Map.h"
-#include "Player.h"
+#include "include/Tile.h"
+#include "include/Map.h"
+#include "include/Player.h"
 #define T_0 0.03
 
 template<typename T> std::string tostr( T arg )
